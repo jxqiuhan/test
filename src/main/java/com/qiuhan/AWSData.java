@@ -16,11 +16,8 @@ public class AWSData {
 
     public static class ActionResponsesDTO {
 
-
         private String action;
-
         private List<DataDTO> data;
-
 
         public static class DataDTO {
 
